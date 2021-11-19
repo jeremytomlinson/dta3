@@ -48,4 +48,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: jeremytomlinson-designsthatadapt
-          path: ./
+          path: ${{ steps.build.outputs.publish_dir }}
