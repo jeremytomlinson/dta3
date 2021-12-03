@@ -319,7 +319,7 @@ function PlasmicDesignsThatAdaptHomepage__RenderFunc(props: {
                     sty.h2__z3Fds
                   )}
                 >
-                  {"Proposing values"}
+                  {"Proposing factors"}
                 </h2>
               </div>
 
